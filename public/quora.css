@@ -1,0 +1,19 @@
+
+div{
+    border: solid black 1px;
+    padding: 2px;
+    margin-top: 5px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+   
+}
+.user{
+    color: rgb(0, 109, 205);
+    text-align: center;
+}
+.contant{
+    color: rgb(37, 168, 140);
+    margin-top: -10px;
+    text-decoration: underline;
+    margin-left: 2rem;
+}
